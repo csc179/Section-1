@@ -1,5 +1,5 @@
-# Section1
-CSC 179 Section1
+# Section 1
+CSC 179 Section 1
 
 This repository will contain all of the material needed for this class.
 
